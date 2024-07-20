@@ -65,9 +65,11 @@ To train your own emotion detection model, refer to the notebook [facial_emotion
     ```sh
     python Emotion_Detection.py
     ```
-
-Replace `(https://github.com/Azayyadav/Face_And_Emotion_Detection-master/tree/main)` with the actual URL of your repository.
-
 ---
+[(https://github.com/Azayyadav/Face_And_Emotion_Detection-master/tree/main)]
+# Thank You!
+Thank you for taking the time to explore this project. Your support and interest are greatly appreciated!
+---
+Feel free to contribute, raise issues, or reach out if you have any questions or suggestions.
+Happy coding!
 
-This README is now more structured with clear sections, making it easier to read and understand. If you have any other details or sections to add, feel free to do so!
